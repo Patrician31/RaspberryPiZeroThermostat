@@ -1,5 +1,12 @@
 # RaspberryPiZeroThermostat
 
+start with setting up the sensor by copying the code from:
+https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/software-install-updated
+and connecting the sensor as following:
+connect pins 1 3.3V to pin 1 of DHT22 sensor
+10k or 4.7k ohm pull up to pin2 of sensor, connect to IO pin 23 in raspberry pi
+pin4 of sensor is ground, connect to pin9 of pi
+
 #user pi pass raspberry
 
 # move files to raspberry pi

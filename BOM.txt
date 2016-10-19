@@ -5,4 +5,4 @@ wifi module (cheap <$3 one off ebay works great for me)
 10kohm pullup resistor for the DHT22 sensor
 OTG cable (don't get one with 90 degree turn)
 power supply (phone charger and mini usb cable)
-Female To Female Jumper Wires
+Female To Female Jumper Wires (10 would do)

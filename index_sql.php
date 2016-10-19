@@ -15,7 +15,7 @@ echo "--------------------------------<br>";
 
 $dbhost = 'localhost';
 $dbuser = 'root';
-$dbpass = 'asaf123';
+$dbpass = '<your sql password>';
 $conn = mysql_connect($dbhost, $dbuser, $dbpass);
 if(! $conn )
 {

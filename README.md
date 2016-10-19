@@ -34,6 +34,6 @@ insert into target (id, temp, hist, mode) values (1, 80, 1, 0);
 
 # automatically start script
 sudo nano /etc/rc.local
-    #add this line at the bottom
-    sudo sh /home/pi/thermostat/startup.sh &
+#add this line at the bottom
+sudo sh /home/pi/thermostat/startup.sh &
 

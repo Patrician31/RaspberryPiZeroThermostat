@@ -1,3 +1,7 @@
+# NOTE: these were my chicken scratch notes as I was putting this project together, I'm cleaning these out as I go along. you're welcome to leave a commit on the reddit page if you are stuck at a point and I will try to help you and while doing that also improve this readmy file.
+
+https://www.reddit.com/r/raspberry_pi/comments/58idhw/20_dollar_wifi_thermostat/
+
 # RaspberryPiZeroThermostat
 
 start with setting up the sensor by copying the code from:

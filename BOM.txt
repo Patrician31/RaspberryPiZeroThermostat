@@ -1,6 +1,6 @@
-$5 raspberry pi zero
-$5 (ebay) 4 channel relay
-$3 (ebay) DHT22 sensor
+$5+tax raspberry pi zero
+<$5 (ebay) 4 channel relay
+<$3 (ebay) DHT22 sensor
 wifi module (cheap <$3 one off ebay works great for me)
 10kohm pullup resistor for the DHT22 sensor
 OTG cable (don't get one with 90 degree turn)

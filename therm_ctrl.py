@@ -80,7 +80,7 @@ while True:
   # convert temp to Fahrenheit
   rdtemp = 9.0/5.0 * rdtemp_c + 32
   # read values from sql database
-  db = MySQLdb.connect("localhost","root","asaf123","thermostat" )
+  db = MySQLdb.connect("localhost","root",<yourPassword>,"thermostat" )
   cursor = db.cursor()
   # Prepare SQL query to UPDATE required records
   sql = "UPDATE current SET temp=" + str(rdtemp) + ", humidity=" + str(rdhumidity) + " WHERE id=1"
